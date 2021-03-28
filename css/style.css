@@ -1,0 +1,90 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a,
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+h1 {
+	color: tomato;
+}
+a, menu__list {
+	color: chocolate;
+}
+.yellow {
+	color: yellowgreen;
+}
+.green {
+	color: violet;
+}
+.brown {
+	color: brown;
+}
+span, text {
+	color: blue;
+}
+.block {
+	color: teal;
+}
+.text {
+	color: tomato;
+}
+#title-1 {
+	color: blueviolet;
+}
+h3 {
+	color: darkblue;
+}
+.text.green {
+	color: rgb(109, 34, 139);
+}
+.title.text {
+	color: grey;
+}
+.text.yellow {
+	color: yellow;
+}
+.text.red {
+	color: violet;
+}
+a, _blank {
+	color: greenyellow;
+}
+p.text.block.indigo {
+	color: rgb(117, 130, 0);
+}
+ul.list {
+	color: lawngreen;
+}
+.text.blue {
+	color: blue;
+}
+footer {
+	color: brown;
+}
+a, title-1{
+	color: cadetblue;
+}
